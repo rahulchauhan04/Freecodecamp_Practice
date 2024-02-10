@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey-form</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1 id="title" class="form-title">Coding Survey Form</h1>
+    <p id="description" class="form-description">Please fill out this form to help us improve our service.</p>
+
+    <!-- form starts -->
+    <form id="survey-form" class="survey-form">
+      <div class="form-group">
+        <label id="name-label" for="name" class="form-label">Name:</label>
+        <input id="name" type="text" name="name" class="form-control" placeholder="Enter your Name" required/>
+      </div>
+
+      <div class="form-group">
+        <label id="email-label" for="email" class="form-label">Email:</label>
+        <input id="email" type="email" name="email" class="form-control" placeholder="rahulg0004@gmail.com" required/>
+      </div>
+
+      <div class="form-group">
+        <label id="number-label" for="number" class="form-label">Age:</label>
+        <input id="number" type="number" name="age" class="form-control" min="10" max="100" placeholder="age" required/>
+      </div>
+
+      <!-- selection -->
+      <div class="form-group">
+        <select id="dropdown" class="form-control">
+          <option value="">Select an option</option>
+          <option value="option1">Option 1</option>
+          <option value="option2">Option 2</option>
+        </select>
+      </div>
+
+      <!-- radio buttons -->
+      <div class="form-group radio-group">
+        <label for="radio1" class="radio-label">Male</label>
+        <input type="radio" value="Male" id="radio1" name="gender" class="radio-input"/>
+        <label for="radio2" class="radio-label">Female</label>
+        <input type="radio" value="Female" id="radio2" name="gender" class="radio-input"/>
+      </div>
+
+      <!-- checkboxes -->
+      <div class="form-group checkbox-group">
+        <label for="checkbox1" class="checkbox-label">Series A</label>
+        <input type="checkbox" value="Series A" id="checkbox1" name="series" class="checkbox-input"/>
+        <label for="checkbox2" class="checkbox-label">Series B</label>
+        <input type="checkbox" value="Series B" id="checkbox2" name="series" class="checkbox-input"/>
+        <label for="checkbox3" class="checkbox-label">Series C</label>
+        <input type="checkbox" value="Series C" id="checkbox3" name="series" class="checkbox-input"/>
+        <label for="checkbox4" class="checkbox-label">Series D</label>
+        <input type="checkbox" value="Series D" id="checkbox4" name="series" class="checkbox-input"/>
+      </div>
+
+      <!-- textarea -->
+      <div class="form-group">
+        <textarea id="comments" name="comments" class="form-control" rows="4" placeholder="Enter your comments here..."></textarea>
+      </div>
+
+      <!-- submit button -->
+      <div class="form-group">
+        <button id="submit" class="submit-button">Submit</button>
+      </div>
+    </form>
+  </div>
+</body>
+</html>
