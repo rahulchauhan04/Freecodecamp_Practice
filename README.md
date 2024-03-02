@@ -11,5 +11,7 @@
 
 5. Learn Typography by Building a Nutrition Label [https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67]
 
+6. Learn Accessibility by Building a Quiz  [https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68]
+
 
               
