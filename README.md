@@ -13,5 +13,9 @@
 
 6. Learn Accessibility by Building a Quiz  [https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-68]
 
+7. Tribute Page [https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page]
+
+
+
 
               
