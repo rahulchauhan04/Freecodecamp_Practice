@@ -168,11 +168,19 @@ function attack() {
   monsterHealthText.innerText = monsterHealth;
   if (health <= 0) {
     lose();
-  } else if(monsterHealth <= 0){
+  } else if (monsterHealth <= 0) {
     defeatMonster();
   }
 }
 
 function dodge() {
+  text.innerText = "You dodge the attack from the "+ monsters[fighting].name;
+}
+
+function defeatMonster() {
+
+}
+
+function lose() {
 
 }
