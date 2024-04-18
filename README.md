@@ -15,6 +15,8 @@
 
 7. Tribute Page [https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page]
 
+8. Role Playing Game [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-179]
+
 
 
 
