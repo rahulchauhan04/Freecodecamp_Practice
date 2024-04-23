@@ -17,6 +17,7 @@
 
 8. Role Playing Game [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-179]
 
+9. Learn Form Validation by Building a Calorie Counter [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter/step-96]
 
 
 
