@@ -19,6 +19,6 @@
 
 9. Learn Form Validation by Building a Calorie Counter [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter/step-96]
 
-
+10. Learn Introductory JavaScript by Building a Pyramid Generator [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-introductory-javascript-by-building-a-pyramid-generator/step-109]
 
               
